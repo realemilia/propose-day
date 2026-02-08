@@ -73,3 +73,10 @@
 .no-btn:hover {
   background-color: #d32f2f;
 }
+
+.propose-text {
+  font-size: 2rem;
+  color: #d81b60; /* Same pinkish red */
+  margin-top: 10px;
+  font-weight: bold;
+}
