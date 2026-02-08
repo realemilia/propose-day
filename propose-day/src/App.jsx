@@ -41,6 +41,8 @@ function App() {
           className="gif"
         />
         <h1 className="yes-text">Yay!!! I love you! 💋❤️</h1>
+        {/* ADDED THIS LINE BELOW */}
+        <h2 className="propose-text">Happy Propose Dayy! 💍</h2>
       </div>
     );
   }
